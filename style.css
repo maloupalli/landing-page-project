@@ -58,3 +58,39 @@ header img {
 footer {
     text-align: center;
 }
+
+.main-intro {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #1f2937;
+    padding: 50px 10%;
+    color: #e5e7eb;
+    gap: 30px;
+}
+
+.intro-text {
+    flex: 1;
+    min-width: 250px;
+}
+
+.main-intro img {
+    max-width: 500px;
+    min-width: 200px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+button {
+    background-color: #3882f6;
+    border: none;
+    color: #f9faf8;
+    font-weight: bold;
+    padding: 8px 24px;
+    font-size: 18px;
+    border-radius: 10px;
+}
