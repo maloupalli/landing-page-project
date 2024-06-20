@@ -70,6 +70,7 @@ footer {
     background-color: #1f2937;
     color: #e5e7eb;
     gap: 30px;
+    justify-content: center;
 }
 
 .intro-text {
@@ -79,7 +80,7 @@ footer {
 
 .main-intro img {
     max-width: 500px;
-    min-width: 200px;
+    min-width: 250px;
 }
 
 h1 {
